@@ -6,10 +6,10 @@
 			"value": "mygithubclustername1"
 		},
 		"dnsPrefix": {
-			"value": "GEN-UNIQUE"
+			"value": "nestledev"
 		},
 		"linuxAdminUsername": {
-			"value": "GEN-UNIQUE"
+			"value": "linuxadmin"
 		},
 		"sshRSAPublicKey": {
 			"value": "GEN-SSH-PUB-KEY"
