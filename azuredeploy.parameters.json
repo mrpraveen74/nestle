@@ -16,10 +16,10 @@
 		},
 		
 		"servicePrincipalClientId": {
-			"value": "GEN-GUID"
+			"value": "e84fddcf-ac66-4d08-b84c-219293c0b81a"
 		},
 		"servicePrincipalClientSecret": {
-			"value": "GEN-UNIQUE"
+			"value": "bfcbc077-0de1-418b-99ff-a4e3a50ec7de"
 		}
 	}
 }
