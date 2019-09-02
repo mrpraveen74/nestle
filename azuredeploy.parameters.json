@@ -15,13 +15,11 @@
 			"value": "GEN-SSH-PUB-KEY"
 		},
 		
+		"servicePrincipalClientId": {
+			"value": "GEN-GUID"
+		},
 		"servicePrincipalClientSecret": {
-      "reference": {
-        "keyVault": {
-          "id": "AzureKeyVaultStan1"
-        },
-        "secretName": "macleSSH"
-      }
-    }
+			"value": "GEN-UNIQUE"
+		}
 	}
 }
